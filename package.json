@@ -1,7 +1,6 @@
 {
   "name": "fake_weather_api_starter",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarasMinaev/spa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TarasMinaev/spa/issues"
+  },
+  "homepage": "https://github.com/TarasMinaev/spa#readme",
+  "description": ""
 }
